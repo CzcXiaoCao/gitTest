@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.  4
 Git tracks changes.
 Git tracks changes.2
 Creating a new branch is quick and simple.
+分支管理策略
