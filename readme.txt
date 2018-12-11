@@ -7,3 +7,5 @@ Git tracks changes.
 Git tracks changes.2
 Creating a new branch is quick and simple.
 分支管理策略
+dev没做完
+dev做完了
